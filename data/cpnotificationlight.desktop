@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=led_ti_led
+Comment=notification light settings
+Type=HildonControlPanelPlugin
+Icon=control_led
+X-Text-Domain=osso-display
+X-control-panel-plugin=libcpnotificationlight.so
+Categories=personalisation

@@ -1,0 +1,17 @@
+Source: osso-applet-notificationlight
+Priority: extra
+Maintainer: Nicolai Hess <nicolaihess@web.de>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+Section: libs
+
+Package: osso-applet-notificationlight
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, hildon-control-panel (>= 1:2.2.1), osso-icons | osso-icons-devel, osso-display-l10n-mr0 | osso-display-l10n-mr
+Description: Control Panel Notification light applet
+ An applet for hildon control panel that allows the user to change notification light
+ settings like setting the usage of LED light to indicate the provided device and application states.
+ .
+ Rewritten to be open source by Nicolai Hess.
+XSBC-Bugtracker: mailto:nicolaihess@web.de
+
