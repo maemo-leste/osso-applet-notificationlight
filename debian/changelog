@@ -1,3 +1,9 @@
+osso-applet-notificationlight (0.0.9) unstable; urgency=medium
+
+  * Port initscript to OpenRC and clean up
+
+ -- Ivan J. <parazyd@dyne.org>  Thu, 01 Oct 2020 17:17:04 +0200
+
 osso-applet-notificationlight (0.0.8+0cssu1) unstable; urgency=medium
 
   * Enable git builds
