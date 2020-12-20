@@ -1,3 +1,9 @@
+osso-applet-notificationlight (0.0.10) unstable; urgency=medium
+
+  * Prefer RX-51 over RX-34
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sun, 20 Dec 2020 15:01:49 +0100
+
 osso-applet-notificationlight (0.0.9) unstable; urgency=medium
 
   * Port initscript to OpenRC and clean up
