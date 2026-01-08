@@ -1,7 +1,7 @@
 Source: osso-applet-notificationlight
 Priority: extra
 Maintainer: Nicolai Hess <nicolaihess@web.de>
-Build-Depends: debhelper (>= 5), hildon-control-panel-dev, libosso-dev, libglib2.0-dev, libhildondesktop1-dev
+Build-Depends: debhelper (>= 5), mce-dev, hildon-control-panel-dev, libosso-dev, libglib2.0-dev, libhildondesktop1-dev, 
 Standards-Version: 3.7.2
 Section: libs
 
